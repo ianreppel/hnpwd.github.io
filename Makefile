@@ -10,7 +10,6 @@ pub: gen co push
 
 co:
 	git add -p
-	git diff --cached
 	@echo 'Type Enter to commit, Ctrl + C to cancel.'; read
 	git commit
 
