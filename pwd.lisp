@@ -44,6 +44,14 @@
   :hnuid "zahlman"
   :bio "Tools developer and Python educator.")
 
+ (:name "Matteo"
+  :site "https://xnacly.me/"
+  :blog "https://xnacly.me/posts/"
+  :feed "https://xnacly.me/index.xml"
+  :about "https://xnacly.me/about/"
+  :hnuid "xnacly"
+  :bio "Writes about compilers and hardware.  Contributes to open source software.")
+
  (:name "Nicolas Chagnet"
   :site "https://nchagnet.pages.dev/"
   :feed "https://nchagnet.pages.dev/rss.xml"
