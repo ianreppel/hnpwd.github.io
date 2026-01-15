@@ -22,7 +22,7 @@ a:visited {
   color: #300;
 }
 a:focus, a:hover, a:active {
-  color: #c00;
+  color: #900;
 }
 main {
   display: grid;
